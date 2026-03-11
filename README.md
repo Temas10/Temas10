@@ -84,6 +84,8 @@
 
 ### [Теория вероятности и статистика на Python](https://github.com/Temas10/football_theory)
 
+### [Сайт с backend и frontend частью](https://github.com/Temas10/math_tutor_site)
+
 **Стек:** FastAPI, PostgreSQL, Celery, Redis, Docker, aiohttp  
 
 Сервис для сбора и поиска вакансий с **HeadHunter**:
