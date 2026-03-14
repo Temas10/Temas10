@@ -86,6 +86,8 @@
 
 ### [Сайт с backend и frontend частью](https://github.com/Temas10/math_tutor_site)
 
+### [Финансовый планировщик (пищевой)](https://github.com/Temas10/food_finance)
+
 **Стек:** FastAPI, PostgreSQL, Celery, Redis, Docker, aiohttp  
 
 Сервис для сбора и поиска вакансий с **HeadHunter**:
