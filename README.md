@@ -88,6 +88,8 @@
 
 ### [Финансовый планировщик (пищевой)](https://github.com/Temas10/food_finance)
 
+### [Сайт с админкой на django](https://github.com/Temas10/diary_project)
+
 **Стек:** FastAPI, PostgreSQL, Celery, Redis, Docker, aiohttp  
 
 Сервис для сбора и поиска вакансий с **HeadHunter**:
