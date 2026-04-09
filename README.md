@@ -78,6 +78,8 @@
 
 ## 🚀 Пет-проекты
 
+### [Мой личный сайт репетитора (backend + frontend)](https://github.com/Temas10/math_site_tutor/tree/main)
+
 ### [Парсер вакансий с hh.ru](https://github.com/Temas10/hh_search)
 
 ### [Анти-прокрастинатор](https://github.com/Temas10/anti--procrastinator)
